@@ -16,4 +16,5 @@
 
 ### Демонстрация
 
-![](GazpromBot.gif)
+
+<img src="GazpromBot.gif" height="600">
